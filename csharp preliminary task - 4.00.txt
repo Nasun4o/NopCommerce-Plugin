@@ -88,6 +88,3 @@ only the 4 most recently added products will be shown.
 Once you have completed the plugin please upload your plugin project to GitHub and send a link to milen@nop-templates.com.
 
 If you have any questions please feel free to ask us anything by email or on Skype.
-
-Email: milen@nop-templates.com
-Skype: m_kovatchev
